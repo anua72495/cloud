@@ -1,0 +1,147 @@
+body
+{
+margin-left:0;
+margin-top:0;
+background-color:#F6A3BF;/*#E4F9F7;//#FFFEF5;//#CFFCD4;//E8E6D4;//E4F9F7;*/
+font-family:Arial;
+font-weight:bold;
+font-size:12px;
+color:blue;
+}
+h2
+{
+color:blue;
+font-family:Arial;
+font-size:18px;
+}
+/*
+a1
+{
+color:#0000ee;
+font-family:Arial;
+font-weight:bold;
+font-size:12px;
+}*/
+
+a 
+{
+font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color:#0000ff;/*// #363636;//#737373;*/
+}
+a:visited
+{
+font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color:#0000ff;/*// #363636;//#737373;*/
+}
+a:hover
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color:blue;/*#C4C4C4;*/
+	letter-spacing:1px;
+	background-image:url('images/btnhome_rollover copy.jpg');
+}
+th
+{
+background-color:#F1F1D8;/*//E4F9F7;*/
+font-family:Arial;
+font-weight:bold;
+font-size:13px;
+color:black;
+}
+td
+{
+background-repeat:no-repeat;
+/*background-color:#E4F9F7;*/
+font-family:Arial;
+font-weight:bold;
+font-size:11px;
+color:blue;
+}
+.menutd
+{
+background-image:url('images/btn1 copy.jpg');
+text-align:center;
+border-radius:10px;
+height:25px;
+padding-top:5px;
+vertical-align:top;
+color:blue;
+}
+
+input
+{
+font-family:Arial;
+font-weight:bold;
+font-size:11px;
+/*//background-color:#FCD2E9;*/
+}
+
+textarea
+{
+font-family:Arial;
+font-weight:bold;
+font-size:11px;
+/*//background-color:#FCD2E9;*/
+}
+
+select
+{
+font-family:Arial;
+font-weight:bold;
+font-size:11px;
+//background-color:#FCD2E9;
+}
+.header2
+{
+font-family:Arial;
+font-weight:bold;
+font-size:16px;
+}
+.ColorMain01 {
+	background-color: #667ACC;
+	COLOR:white;
+}
+.ColorMain02 {
+	background-color: #5FA080;
+	COLOR:white;
+}
+h1
+{
+background-color: #FC699A;/*//#5FA080;//667ACC;*/
+color:white;
+letter-spacing:1px;
+font-weight:normal;
+font-family: Verdana, Arial, Helvetica, sans-serif;
+
+}
+.oddlinks
+{
+background-color: #D3E2D8;
+font-weight:normal;
+font-family: Verdana, Arial, Helvetica, sans-serif;
+letter-spacing:0.8px;
+font-size:9px;
+height:25px;
+color:blue;
+}
+.evenlinks
+{
+background-color: #E7EFE8;
+font-weight:normal;
+font-family: Verdana, Arial, Helvetica, sans-serif;
+letter-spacing:0.8px;
+font-size:9px;
+height:25px;
+color:blue;
+}
+.tablemiddle
+{
+background-color:#F6A3BF;/* #CFFCD4;*/
+}
+td
+{
+	height:25px;
+}

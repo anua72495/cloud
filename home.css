@@ -1,0 +1,91 @@
+
+.full1 {
+  background: url(d1.jpg) 0 0 no-repeat;
+  min-height: 400px;
+  background-size: cover;
+  position: relative;
+ 
+}
+.full2 {
+  background: url(d2.jpg) 0 0 no-repeat;
+  min-height: 400px;
+  background-size: cover;
+  position: relative;
+ 
+}
+.full3 {
+  background: url(d3.jpg) 0 0 no-repeat;
+  min-height: 400px;
+  background-size: cover;
+  position: relative;
+ 
+}
+.full4 {
+  background: url(d4.jpg) 0 0 no-repeat;
+  min-height: 400px;
+  background-size: cover;
+  position: relative;
+ 
+}
+.full5 {
+  background: url(d5.jpg) 0 0 no-repeat;
+  min-height: 400px;
+  background-size: cover;
+  position: relative;
+ 
+}
+.full6 {
+  background: url(d6.jpg) 0 0 no-repeat;
+  min-height: 400px;
+  background-size: cover;
+  position: relative;
+ 
+}
+
+.full1:hover .overlay-effect,.full2:hover .overlay-effect,.full3:hover .overlay-effect,.full4:hover .overlay-effect,.full5:hover .overlay-effect,.full6:hover .overlay-effect {
+  opacity:0.7;
+  cursor: pointer;
+}
+
+.overlay-effect {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  opacity: 0;
+  transition: .5s ease;
+  background-color:grey;
+  overflow:hidden;
+}
+
+@-webkit-keyframes marquee {
+  0% {
+    background-position: 0;
+  }
+
+  100% {
+    background-position: -1190px;
+  }
+}
+html {
+  scroll-behavior: smooth;
+}
+.img-responsive{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+.cart-icon{
+  margin-left: 150px;
+}
+.user_li{
+  color: white;
+  padding-right: 20px;
+  cursor: pointer;
+}
+
+
+
+

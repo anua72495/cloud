@@ -1,0 +1,43 @@
+<!--footer-->
+      <nav class="navbar navbar-inverse navbar-bottom " style="margin-bottom:0px;" >
+        <div class="container-fluid" >
+        <div class="row">
+       
+        <div class="col-sm-3" id="contact" style="padding-left:50px;">
+           <br><img src="logo.png" alt="logo" height="60px" width="60px"> <br><br>      
+           <address style="color:white;font-size:17px;">
+            <span>GS Constructions & Materials<br></span>Old Busstand, Kodumudi Road <br>
+             Sivagiri, Erode,<br>Tamil Nadu 638109<br>
+            <span>Phone:+91 8344941266</span>
+           </address>
+        </div>
+
+       <div class="col-sm-3">
+       <!--map-->  
+       <iframe width="90%" height="30%" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3914.8963223423366!2d77.78780201475209!3d11.121098992088202!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ba97858b15d93df%3A0x868a3ab705f4582!2sGS%20TRADERS!5e0!3m2!1sen!2sin!4v1630003479701!5m2!1sen!2sin"></iframe><br />
+       <!--//map//-->
+       </div>
+ 
+      <div class="col-sm-3" style="color:white;padding-top:35px;line-height:35px;font-size:17px;">
+         <p><a href="customerpage.php">Place order here </a>/
+         For further inquiries, <br>
+         <a href="#" style="color:inherit;text-decoration:none;"><i class="fa fa-phone" style="font-size:20px;color:white;"></i></a> &nbsp;9965526657 / 9597906657 <br> 
+        <a href="#" style="color:inherit;text-decoration:none;"><i class="fa fa-envelope" style="font-size:20px;color:white;"></i></a> &nbsp;gstradersivagiri@gmail.com </p>
+      </div>
+ 
+      <div class="col-sm-3" style="color:white;padding-top:35px;">
+       <ul style="padding-left:1px;">
+       <a href="index.php" style="color:inherit;text-decoration:none;" data-toggle=""><li style="display:inline;">Home</li></a>
+       <a href="index.php" style="color:inherit;text-decoration:none;" data-toggle=""><li style="display:inline;">&nbsp;&nbsp;|&nbsp;&nbsp;About Us</li></a>
+       <a href="index.php" style="color:inherit;text-decoration:none;" data-toggle=""><li style="display:inline;">&nbsp;&nbsp;|&nbsp;&nbsp;Gallery</li></a>
+       <a href="#contact" style="color:inherit;text-decoration:none;" data-toggle=""><li style="display:inline;">&nbsp;&nbsp;|&nbsp;&nbsp;Contact</li></a>
+       </ul> <br>
+       <p style="padding-left:1px;">Copyright © 2021 GS Constructions & Materials.<br>All Rights Reserved</p>
+       <a href="#home" style="color:inherit;float:right;padding-right:40px;"><i class="fas fa-chevron-circle-up" style="font-size:40px;color:gray;position:fixed;bottom:7%;-webkit-transform:translateY(-10%);-ms-transform:translateY(-50%);transform: translateY(-50%);"></i></a>
+       <a href="#contact" style="color:inherit;float:right;padding-right:40px;display:block"><i class="fas fa-chevron-circle-down" style="font-size:40px;color:gray;position:fixed;bottom:0%;-webkit-transform:translateY(-10%);-ms-transform:translateY(-50%);transform: translateY(-50%);"></i></a>
+      </div>
+
+     </div>  
+     </div>
+      </nav>
+      <!--//footer//-->
